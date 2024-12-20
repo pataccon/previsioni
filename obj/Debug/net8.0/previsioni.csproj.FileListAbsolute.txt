@@ -1,0 +1,17 @@
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\bin\Debug\net8.0\previsioni.exe
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\bin\Debug\net8.0\previsioni.deps.json
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\bin\Debug\net8.0\previsioni.runtimeconfig.json
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\bin\Debug\net8.0\previsioni.dll
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\bin\Debug\net8.0\previsioni.pdb
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\obj\Debug\net8.0\previsioni.csproj.AssemblyReference.cache
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\obj\Debug\net8.0\previsioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\obj\Debug\net8.0\previsioni.AssemblyInfoInputs.cache
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\obj\Debug\net8.0\previsioni.AssemblyInfo.cs
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\obj\Debug\net8.0\previsioni.csproj.CoreCompileInputs.cache
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\obj\Debug\net8.0\previsioni.csproj.Up2Date
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\obj\Debug\net8.0\previsioni.dll
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\obj\Debug\net8.0\refint\previsioni.dll
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\obj\Debug\net8.0\previsioni.pdb
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\obj\Debug\net8.0\previsioni.genruntimeconfig.cache
+C:\Users\daniele.sbrighi\Documents\playground\esercizi\previsioni\obj\Debug\net8.0\ref\previsioni.dll
